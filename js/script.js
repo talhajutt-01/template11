@@ -77,6 +77,15 @@ const f7 = document.getElementById('f7');
 const f8 = document.getElementById('f8');
 const f9 = document.getElementById('f9');
 
+const g0 = document.getElementById('header');
+const g1 = document.getElementById('about');
+const g2 = document.getElementById('service');
+const g3 = document.getElementById('project');
+const g4 = document.getElementById('project1');
+const g5 = document.getElementById('team');
+const g6 = document.getElementById('client');
+const g7 = document.getElementById('footer');
+
 const img1 = document.getElementById('img1');
 const img2 = document.getElementById('img2');
 const img3 = document.getElementById('img3');
@@ -109,6 +118,10 @@ function updateContent(element, newValue) {
   function updateImageSrc(imageElement, newSrc) {
     // Update the src attribute of the image element
     imageElement.src = newSrc;
+}
+function updateBackgroundColor(element, newColor) {
+  // Update the background color for the element
+  element.style.backgroundColor = newColor;
 }
 
   
@@ -196,6 +209,15 @@ function updateContent(element, newValue) {
             updateContent(f7, jsonData.footer.f7);
             updateContent(f8, jsonData.footer.f8);
             updateContent(f9, jsonData.footer.f9);
+
+            updateBackgroundColor(g0, jsonData.color.header);
+            updateBackgroundColor(g1, jsonData.color.about);
+            updateBackgroundColor(g2, jsonData.color.service);
+            updateBackgroundColor(g3, jsonData.color.project);
+            updateBackgroundColor(g4, jsonData.color.project1);
+            updateBackgroundColor(g5, jsonData.color.team);
+            updateBackgroundColor(g6, jsonData.color.client);
+            updateBackgroundColor(g7, jsonData.color.footer);
             
 
             updateImageSrc(img1, jsonData.images.img1);
