@@ -1,0 +1,147 @@
+{
+    "title": {
+        "title": "Updated Cial"
+    },
+
+     "nav": { 
+        //another section all elemets are links
+        "nav0": "home",
+        "nav1": "About",
+        "nav2": "Service",
+        "nav3": "Team",
+        "nav4": "Contact Us"
+    },
+
+     "banner": {
+        //another section all elemets are text and h2,h3 is button or link
+        "h0": "updaet financial Service",
+        "h1": "updaet Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+        "h2": "Read More",
+        "h3": "Contact Us"
+    },
+
+     "about": {
+        //another section all elemets are text and a2 is button or link
+        "a0": "update WELCOME TO FINAnCIAL SERVICES",
+        "a1": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it",
+        "a2": "Read More"
+    },
+
+    "service":{
+        //another section all elemets are text and s4,s10,s13 arebutton or link
+        "s0":"update WHAT WE DO",
+        "s1":"update It is a long established fact that a reader will be distracted by the readable content of a",
+        "s2":"update Accounting",
+        "s3":"Lorem Ipsum is simply dummy text of the printing and",
+        "s4":"Read More",
+        "s5":"Advisor",
+        "s6":"Lorem Ipsum is simply dummy text of the printing and",
+        "s7":"updates Read More",
+        "s8":"Investment",
+        "s9":"Lorem Ipsum is simply dummy text of the printing and",
+        "s10":"Read More",
+        "s11":"update  Financial",
+        "s12":"Lorem Ipsum is simply dummy text of the printing and",
+        "s13":"Read More"
+     },
+
+      "project":{
+        //another section all elemets are text and p2 is  button or link
+        "p0":"update Our projects",
+        "p1":"It is a long established fact that a reader will be distracted by the readable content of a",
+        "p2":"Read More",
+        "p3":"Established Fact",
+        "p4":"Established Fact",
+        "p5":"Established Fact",
+        "p6":"Established Fact",
+        "p7":"1000+",
+        "p8":"Years of Business",
+        "p9":"20000+",
+        "p10":"Projects Delivered",
+        "p11":"10000+",
+        "p12":"Satisfied Customers",
+        "p13":"1500+",
+        "p14":"Services"
+     },
+
+     "team" : {
+        //another section all elemets are text and t3,t5,t7,t9 are buttons or links
+        "t0":"updated Our Team and experts",
+        "t1":"updated It is a long established fact that a reader will be distracted by the readable content of a",
+        "t2":"Readable",
+        "t3":"Follow Us",
+        "t4":"Readable",
+        "t5":"Follow Us",
+        "t6":"Readable",
+        "t7":"Follow Us",
+        "t8":"updated Readable",
+        "t9":"Follow Us"
+     },
+
+     "client":{
+        //another section all elemets are text
+        "c0":"what is syas our clients",
+        "c1":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem",
+        "c2":"what is syas our clients",
+        "c3":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem",
+        "c4":"what is syas our clients",
+        "c5":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem"
+     },
+
+      "footer" : {
+        //another section all elemets are text
+        "f0":"updated About Financial",
+        "f1":"Locations",
+        "f2":"+01 9876543210",
+        "f3":"demo@gmail.com",
+        "f4":"About Financial",
+        "f5":"ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "f6":"Instagram",
+        "f7":"Newsletter",
+        "f8":"Copyright 2019 All Right Reserved By",
+        "f9":"Free html  Templates"
+     },
+     "color":{
+        //chagne color shceme
+        "header":"grey",
+        "about":"red",
+        "service":"grey",
+        "project":"red",
+        "project1":"blue",
+        "team":"grey",
+        "client":"red",
+        "footer":"grey"
+     },
+     
+        "images": {
+        //image of logo at header
+        "img1": "images/logo.png",
+
+        //iamge of banner
+        "img2": "images/banner-img.png",
+
+        // image of about
+        "img3": "images/img-1.png",
+
+        image of project section
+        "img4": "images/img-6.png",
+        "img5": "images/img-2.png",
+        "img6": "images/img-3.png",
+        "img7": "images/img-4.png",
+        "img8": "images/img-5.png",
+
+        //image of team section
+        "img9": "images/img-7.png",
+        "img10": "images/img-8.png",
+        "img11": "images/img-9.png",
+        "img12": "images/img-10.png",
+
+        //image of client section
+        "img13": "images/img-11.png",
+        "img14": "images/img-11.png",
+        "img15": "images/img-11.png"
+    }
+
+
+
+}
