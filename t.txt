@@ -12,22 +12,22 @@
     },
 
      "banner": {
-        "h0": "updaet financial Service",
-        "h1": "updaet Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+        "h0": " financial Service",
+        "h1": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
         "h2": "Read More",
         "h3": "Contact Us"
     },
 
      "about": {
-        "a0": "update WELCOME TO FINAnCIAL SERVICES",
+        "a0": " WELCOME TO FINAnCIAL SERVICES",
         "a1": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it",
         "a2": "Read More"
     },
 
     "service":{
-        "s0":"update WHAT WE DO",
-        "s1":"update It is a long established fact that a reader will be distracted by the readable content of a",
-        "s2":"update Accounting",
+        "s0":" WHAT WE DO",
+        "s1":" It is a long established fact that a reader will be distracted by the readable content of a",
+        "s2":" Accounting",
         "s3":"Lorem Ipsum is simply dummy text of the printing and",
         "s4":"Read More",
         "s5":"Advisor",
@@ -42,7 +42,7 @@
      },
 
       "project":{
-        "p0":"update Our projects",
+        "p0":" Our projects",
         "p1":"It is a long established fact that a reader will be distracted by the readable content of a",
         "p2":"Read More",
         "p3":"Established Fact",
@@ -60,8 +60,8 @@
      },
 
      "team" : {
-        "t0":"updated Our Team and experts",
-        "t1":"updated It is a long established fact that a reader will be distracted by the readable content of a",
+        "t0":" Our Team and experts",
+        "t1":" It is a long established fact that a reader will be distracted by the readable content of a",
         "t2":"Readable",
         "t3":"Follow Us",
         "t4":"Readable",
@@ -82,7 +82,7 @@
      },
 
       "footer" : {
-        "f0":"updated About Financial",
+        "f0":" About Financial",
         "f1":"Locations",
         "f2":"+01 9876543210",
         "f3":"demo@gmail.com",
@@ -94,13 +94,13 @@
         "f9":"Free html  Templates"
      },
      "color":{
-        "header":"grey",
-        "about":"red",
-        "service":"grey",
-        "project":"red",
-        "project1":"blue",
-        "team":"grey",
-        "client":"red",
-        "footer":"grey"
+        "header":"",
+        "about":"",
+        "service":"",
+        "project":"",
+        "project1":"",
+        "team":"",
+        "client":"",
+        "footer":""
      }
 }
